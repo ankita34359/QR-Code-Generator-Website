@@ -36,6 +36,14 @@ Check out the live demo of the QR Code Generator Website:
 
 [Live Demo](https://ankita34359.github.io/QR-Code-Generator-Website/)
 
+## Installation and Setup
+
+Follow the steps below to set up and run the QR Code Generator locally:
+
+### 1. Clone the Repository
+
+`git clone https://github.com/ankita34359/QR-Code-Generator-Website-.git`
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or encounter any issues, please feel free to open an issue or submit a pull request.
