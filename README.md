@@ -4,10 +4,6 @@ This project is a simple web application that allows users to generate QR codes 
 
 ---
 
-## Image of QR Code Generator Website
-
-![Screenshot](i1.png)
-
 ## Features
 
 - **Real-time QR Code Generation:** As you type into the input field, the QR code updates instantly.
@@ -45,6 +41,10 @@ Check out the live demo of the QR Code Generator Website:
 [Live Demo](https://ankita34359.github.io/QR-Code-Generator-Website/)
 
 ---
+
+## Image of QR Code Generator Website
+
+![Screenshot](i1.png)
 
 ## Installation and Setup
 
