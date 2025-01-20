@@ -17,7 +17,7 @@ To use the QR Code Generator, simply open the index.html file in your preferred 
 - **Open the Application:** Launch the index.html file in your web browser.
 - **Enter Text:** Type the desired text or URL into the input field.
 - **Generate QR Code:** The QR code will automatically generate and display on the page as you type.
-- **Download QR Code:** Click the "Download" button below the QR code to save it as an image file to your device.
+- **Download QR Code:** Click the "Download QR Code" button below the QR code to save it as an image file to your device.
 
 ## Contributing
 
