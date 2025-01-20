@@ -26,7 +26,9 @@ To use the QR Code Generator, simply open the index.html file in your preferred 
 
 - **CSS3:** For styling and layout.
 
-- **JavaScript:** For fetching quotes from the API and handling user interactions.
+- **JavaScript:** Logic for generating and downloading QR codes.
+  
+- **External API:** `https://api.qrserver.com` is used to generate QR codes dynamically.
 
 ## Live Demo
 
