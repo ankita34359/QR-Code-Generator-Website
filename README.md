@@ -102,12 +102,9 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 If you have any questions, suggestions, or would like to discuss anything, feel free to reach out:
 
-| Image 1       | Image 2       |
+| GitHub        | Linkedin      |
 |---------------|---------------|
 |![Screenshot](Github_qrcode.png) | ![Screenshot](Linkedin_qrcode.png) |
-
-
-- GitHub: ![Screenshot](Github_qrcode.png)                 Linkedin: ![Screenshot](Linkedin_qrcode.png)
 
 ---
 
