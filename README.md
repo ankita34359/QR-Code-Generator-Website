@@ -54,9 +54,13 @@ Simply open the index.html file in any modern web browser to view the QR Code Ge
 
 QR-Code-Generator-Website-
 │
+
 ├── index.html       # HTML structure of the website
+
 ├── style.css        # CSS file for styling
+
 ├── script.js        # JavaScript file for functionality
+
 ├── README.md        # Project documentation
 
 ## Dependencies
