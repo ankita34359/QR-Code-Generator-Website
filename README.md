@@ -102,8 +102,8 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 If you have any questions, suggestions, or would like to discuss anything, feel free to reach out:
 
-- GitHub: ![Screenshot](Githubqrcode.png)
-- Linkedin: https://www.linkedin.com/in/ankita-gupta-34359abcd/
+- GitHub: ![Screenshot](Github_qrcode.png)
+- Linkedin: ![Screenshot](Linkedin_qrcode.png)
 
 ---
 
