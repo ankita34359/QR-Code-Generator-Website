@@ -50,6 +50,21 @@ Follow the steps below to set up and run the QR Code Generator locally:
 
 Simply open the index.html file in any modern web browser to view the QR Code Generator.
 
+## Project Structure
+
+QR-Code-Generator-Website-
+│
+├── index.html       # HTML structure of the website
+├── style.css        # CSS file for styling
+├── script.js        # JavaScript file for functionality
+├── README.md        # Project documentation
+
+## Dependencies
+
+**Axios:** The axios library is used to fetch the QR code as a blob for downloading. Include it using the following CDN:
+
+`<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>`
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or encounter any issues, please feel free to open an issue or submit a pull request.
