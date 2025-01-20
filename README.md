@@ -104,6 +104,8 @@ If you have any questions, suggestions, or would like to discuss anything, feel 
 
 - GitHub: ![GitHub](Github_qrcode.png)
 - Linkedin: ![Screenshot](Linkedin_qrcode.png)
+  
+[Github Link](Github_qrcode.png)
 
 ---
 
