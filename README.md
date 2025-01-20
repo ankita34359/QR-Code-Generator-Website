@@ -40,9 +40,10 @@ Check out the live demo of the QR Code Generator Website:
 
 Follow the steps below to set up and run the QR Code Generator locally:
 
-### 1. Clone the Repository
+### 1. Clone the Repository: `git clone https://github.com/ankita34359/QR-Code-Generator-Website-.git`
+### 2. Navigate to the Project Directory: `cd QR-Code-Generator-Website-
+`
 
-`git clone https://github.com/ankita34359/QR-Code-Generator-Website-.git`
 
 ## Contributing
 
