@@ -4,8 +4,9 @@ This project is a simple web application that allows users to generate QR codes 
 
 ## Features
 
-- Real-time QR Code Generation: As you type into the input field, the QR code updates instantly.
-- User-Friendly Interface: The application features a clean and intuitive design, making it easy for anyone to use.
+- **Real-time QR Code Generation:** As you type into the input field, the QR code updates instantly.
+- **Downloadable QR Codes:** After generating a QR code, you can download it as an image file to your device.
+- **User-Friendly Interface:** The application features a clean and intuitive design, making it easy for anyone to use.
 
 ## Getting Started
 
@@ -13,9 +14,10 @@ To use the QR Code Generator, simply open the index.html file in your preferred 
 
 ## Usage
 
-- Open the Application: Launch the index.html file in your web browser.
-- Enter Text: Type the desired text or URL into the input field.
-- Generate QR Code: The QR code will automatically generate and display on the page as you type.
+- **Open the Application:** Launch the index.html file in your web browser.
+- **Enter Text:** Type the desired text or URL into the input field.
+- **Generate QR Code:** The QR code will automatically generate and display on the page as you type.
+- **Download QR Code:** Click the "Download" button below the QR code to save it as an image file to your device.
 
 ## Contributing
 
